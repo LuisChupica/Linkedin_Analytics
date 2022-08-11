@@ -1,2 +1,2 @@
 # Linkedin_Analytics
-Este repositorio contiene los archivos de un dashboard para medir las metricas de desempeño de publicaciones en Linkedin.
+Este repositorio contiene la muestra de un dashbaord para medir las metricas de desempeño de publicaciones en Linkedin.
